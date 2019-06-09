@@ -1,0 +1,24 @@
+2019-06-09 15:23:36 - PHP Notice:  Undefined variable: arr in /var/www/html/upload/catalog/controller/product/product.php on line 409
+2019-06-09 17:45:20 - PHP Notice:  Undefined index: manufacturer_id in /var/www/html/upload/catalog/controller/product/product.php on line 409
+2019-06-09 18:06:36 - PHP Notice:  Undefined index: category_id in /var/www/html/upload/catalog/controller/product/product.php on line 409
+2019-06-09 18:06:51 - PHP Notice:  Undefined index: category_id in /var/www/html/upload/catalog/controller/product/product.php on line 409
+2019-06-09 18:20:58 - PHP Notice:  Undefined index: category_id in /var/www/html/upload/catalog/controller/product/product.php on line 480
+2019-06-09 18:26:15 - PHP Notice:  Undefined index: product_category in /var/www/html/upload/catalog/controller/product/product.php on line 408
+2019-06-09 18:59:35 - PHP Notice:  Undefined index: product_category in /var/www/html/upload/catalog/controller/product/product.php on line 409
+2019-06-09 19:10:10 - PHP Notice:  Undefined variable: category_info in /var/www/html/upload/catalog/controller/product/product.php on line 412
+2019-06-09 19:11:58 - PHP Notice:  Undefined variable: category_info in /var/www/html/upload/catalog/controller/product/product.php on line 465
+2019-06-09 19:12:20 - PHP Notice:  Undefined variable: category_info in /var/www/html/upload/catalog/controller/product/product.php on line 466
+2019-06-09 19:14:18 - PHP Notice:  Undefined index: path in /var/www/html/upload/catalog/controller/product/product.php on line 17
+2019-06-09 19:15:50 - PHP Notice:  Undefined variable: category_info in /var/www/html/upload/catalog/controller/product/product.php on line 410
+2019-06-09 20:13:52 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 403
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
+2019-06-09 20:40:23 - PHP Notice:  Array to string conversion in /var/www/html/upload/catalog/model/catalog/product.php on line 421
